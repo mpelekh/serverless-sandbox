@@ -1,0 +1,1 @@
+# Process S3 .json files to SQS via serverless
